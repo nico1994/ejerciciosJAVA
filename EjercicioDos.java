@@ -5,6 +5,8 @@
  */
 package ejerciciodos;
 
+import java.util.Scanner;
+
 /**
  *
  * @author alumno
@@ -18,8 +20,15 @@ public class EjercicioDos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
+        String nombre;
+        Scanner miscanner= new Scanner(System.in);
+        System.out.println("Ingrese su nombre");
+        nombre = miscanner.nextLine();
+        System.out.println("El nombre ingresado es:  " +nombre);
         
-        
+                
+                
         
         
         
