@@ -15,12 +15,17 @@ public class EjercicioUno {
 
     /**
      * @param args the command line arguments
+     * Se debe mostrar el siguiente mensaje:
+     * Esto funciona de maravilla
+     * 
+     * 
      */
     public static void main(String[] args) {
   // TODO code application logic here
-        int numeroPrim;
-        Scanner misc= new Scanner(System.in)
-        System.out.println("Ingrese un numero");
+     
+       
+   
+        System.out.println("esto funciona de maravilla");
         
         
         
